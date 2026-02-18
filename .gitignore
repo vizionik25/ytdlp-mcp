@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Gemini-generated
+GEMINI.md
+src/fast_ytdlp/routers/README.md
